@@ -18,8 +18,8 @@ The two-stage common source amplifier achieves significantly higher voltage gain
 
 |    Amplifier    | Approximate Voltage Gain |
 |-----------------|--------------------------|
-| Single-Stage CS | 24 V/V |
-| Two-Stage CS    | 450 V/V |
+| Single-Stage CS | 24  |
+| Two-Stage CS    | 450  |
 
 This demonstrates the principle of cascading amplifier stages to achieve higher overall gain in analog circuit design.
 
